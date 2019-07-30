@@ -4,7 +4,7 @@ let smoothWindow = 5;
 let sampleCount = 2000;
 let contourDedupThresh = 10;
 let contourThreshold = 100;
-let threshBinaryInv = false;
+let threshBinaryInv = true;
 let circleSample = 1.0;
 let height = 400, width = 400;
 let state = {
